@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Aarush Joglekar 👋
 
-<!--
-**aarushjoglekar/aarushjoglekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freshman at Homestead High school. I enjoy mobile and web development. Some of my hobbies include playing the piano and participating in piano competitions. Email me through the contact me section if you have questions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Canva, Figma, VSCode, Github, Git<br/>
+**Languages/Frameworks:** HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap, Python<br/>
+**Learning:** Java, C#<br/>
+
+## Contact Me
+**Name:** Aarush Joglekar<br/>
+**Email:** aarush (dot) joglekar (at) gmail (dot) com<br/>
+**Instagram:** @aarushjoglekar
