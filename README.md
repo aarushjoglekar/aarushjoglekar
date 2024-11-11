@@ -4,7 +4,7 @@ I am a freshman at Homestead High school. I enjoy mobile and web development. So
 
 ## Skills
 
-**Tools:** Canva, Figma, VSCode, Github, Git<br/>
+**Tools:** Firebase, Canva, Figma, VSCode, Github, Git, Terminal<br/>
 **Languages/Frameworks:** HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap, Python<br/>
 **Learning:** Java, C#<br/>
 
