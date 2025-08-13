@@ -5,8 +5,7 @@ I am a sophmore at Homestead High school. I enjoy mobile and web development. So
 ## Skills
 
 **Tools:** Firebase, Canva, Figma, VSCode, Github, Git, Terminal<br/>
-**Languages/Frameworks:** HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap, Python<br/>
-**Learning:** Java, C#<br/>
+**Languages/Frameworks:** Java, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap, Python<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushjoglekar)](https://github.com/anuraghazra/github-readme-stats)
 
