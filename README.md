@@ -1,6 +1,6 @@
 ## Hi! I'm Aarush Joglekar 👋
 
-I am a freshman at Homestead High school. I enjoy mobile and web development. Some of my hobbies include playing the piano and participating in piano competitions. Email me through the contact me section if you have questions.
+I am a sophmore at Homestead High school. I enjoy mobile and web development. Some of my hobbies include robotics, and playing the piano. Email me through the contact me section if you have questions.
 
 ## Skills
 
