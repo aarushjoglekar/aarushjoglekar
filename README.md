@@ -12,5 +12,5 @@ I am a sophmore at Homestead High school. I enjoy mobile and web development. So
 ## Contact Me
 **Name:** Aarush Joglekar<br/>
 **Email:** aarush (dot) joglekar (at) gmail (dot) com<br/>
-**Youtube:** @aarushjoglekar
+**Youtube:** @aarushjoglekar<br/>
 **Instagram:** @aarushjoglekar
