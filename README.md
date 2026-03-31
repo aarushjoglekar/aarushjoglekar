@@ -1,11 +1,11 @@
 ## Hi! I'm Aarush Joglekar 👋
 
-I am a sophmore at Homestead High school. I enjoy mobile and web development. Some of my hobbies include robotics, and playing the piano. Email me through the contact me section if you have questions.
+Hi, my name is Aarush! I'm a sophmore at Homestead High School. I am passionate about Music, Math, and Technology. I enjoy exploring AI and robotics, and am the software lead for my [high school's FRC team](https://homesteadrobotics.com/leadership-2025-26/). I am also a team member of the Cupertino Teen Advisory Council, and I host events to promote STEAM around our community.
 
 ## Skills
 
-**Tools:** Firebase, Canva, Figma, VSCode, Github, Git, Terminal<br/>
-**Languages/Frameworks:** Java, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap, Python<br/>
+**Tools:** Git, Github, VSCode, Firebase, Canva, Figma, Terminal<br/>
+**Languages/Frameworks:** Python, Java, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushjoglekar)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,4 +13,6 @@ I am a sophmore at Homestead High school. I enjoy mobile and web development. So
 **Name:** Aarush Joglekar<br/>
 **Email:** aarush (dot) joglekar (at) gmail (dot) com<br/>
 **Youtube:** @aarushjoglekar<br/>
-**Instagram:** @aarushjoglekar
+**Instagram:** @aarushjoglekar<br/>
+**LinkedIn:** @aarushjoglekar<br/>
+**Medium**: Aarush Joglekar
