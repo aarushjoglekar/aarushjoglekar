@@ -7,8 +7,6 @@ Hi, my name is Aarush! I'm a sophmore at Homestead High School. I am passionate 
 **Tools:** Git, Github, VSCode, Firebase, Canva, Figma, Terminal<br/>
 **Languages/Frameworks:** Python, Java, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushjoglekar)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact Me
 **Name:** Aarush Joglekar<br/>
 **Email:** aarush (dot) joglekar (at) gmail (dot) com<br/>
