@@ -9,7 +9,7 @@ Hi, my name is Aarush! I'm a sophmore at Homestead High School. I am passionate 
 
 ## Contact Me
 **Name:** Aarush Joglekar<br/>
-**Email:** aarush (dot) joglekar (at) gmail (dot) com<br/>
+**Email:** aarush.joglekar@gmail.com<br/>
 **Youtube:** @aarushjoglekar<br/>
 **Instagram:** @aarushjoglekar<br/>
 **LinkedIn:** @aarushjoglekar<br/>
