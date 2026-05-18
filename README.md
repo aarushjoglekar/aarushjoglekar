@@ -5,7 +5,7 @@ Hi, my name is Aarush! I'm a sophmore at Homestead High School. I am passionate 
 ## Skills
 
 **Tools:** Git, Github, VSCode, Firebase, Canva, Figma, Terminal<br/>
-**Languages/Frameworks:** Python, Java, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap<br/>
+**Languages/Frameworks:** Python, Pytorch, Java, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap<br/>
 
 ## Contact Me
 **Name:** Aarush Joglekar<br/>
