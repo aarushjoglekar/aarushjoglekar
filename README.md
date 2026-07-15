@@ -4,8 +4,9 @@ Hi, my name is Aarush! I'm a rising junior at Homestead High School. I am passio
 
 ## Skills
 
-**Tools:** Git, Github, VSCode, Firebase, Supabase, Canva, Figma, Terminal<br/>
-**Languages/Frameworks:** Python, Pytorch, Java, ChucK/ChAI, HTML, CSS, Javascript, Javascript XML, React Native, Bootstrap<br/>
+**Languages:** Python, Java, Javascript, HTML, CSS, ChucK/ChAI
+**Frameworks:** PyTorch, MuJoCo, React Native, Firebase, Supabase
+**Tools:** Github, Git, VSCode, Firebase, Supabase, Canva, Figma
 
 ## Contact Me
 **Name:** Aarush Joglekar<br/>
