@@ -4,8 +4,8 @@ Hi, my name is Aarush! I'm a rising junior at Homestead High School. I am passio
 
 ## Skills
 
-**Languages:** Python, Java, Javascript, HTML, CSS, ChucK/ChAI
-**Frameworks:** PyTorch, MuJoCo, React Native, Firebase, Supabase
+**Languages:** Python, Java, Javascript, HTML, CSS, ChucK/ChAI<br/>
+**Frameworks:** PyTorch, MuJoCo, React Native, Firebase, Supabase<br/>
 **Tools:** Github, Git, VSCode, Firebase, Supabase, Canva, Figma
 
 ## Contact Me
