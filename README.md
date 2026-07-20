@@ -1,6 +1,6 @@
 ## Hi! I'm Aarush Joglekar 👋
 
-Hi, my name is Aarush! I'm a rising junior at Homestead High School. I am passionate about Music, Math, and Technology. I enjoy exploring AI and robotics, and am the VP Development (former Software Lead) for my [high school's FRC team](https://homesteadrobotics.com/). I am also the VP of the Cupertino Teen Advisory Council, and I host events to promote STEAM around our community.
+Hi, my name is Aarush! I'm a rising junior at Homestead High School. I am passionate about Music, Math, and Technology. I enjoy exploring AI and robotics, and am the VP Development (former Software Lead) for my [high school's FRC team](https://homesteadrobotics.com/). I am also the VP of the Teen Advisory Council (with the Cupertino Library Foundation), and I host events to promote STEAM around our community.
 
 ## Skills
 
